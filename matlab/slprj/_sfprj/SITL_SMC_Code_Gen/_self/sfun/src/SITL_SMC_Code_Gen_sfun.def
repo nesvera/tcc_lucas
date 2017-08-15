@@ -1,0 +1,3 @@
+LIBRARY SITL_SMC_Code_Gen_sfun.mexw64
+EXPORTS
+mexFunction
